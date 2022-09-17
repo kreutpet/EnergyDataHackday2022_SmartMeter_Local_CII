@@ -1,0 +1,26 @@
+# Input(s) of gPlug
+{"Time":"2022-09-17T14:21:01","z":{"1-0:32.7.0":231.3}}
+
+# Input Kamstrup
+{"lv":"","id":"","type":"","P":6,"Q":0,"PO":0,"QO":0,"I1":0.06,"I2":0.00,"I3":0.00,"U1":231.00,"U2":0.00,"U3":0.00,"PF":1.00,"PF1":1.00,"PF2":1.00,"PF3":1.00}
+
+# Output Unified
+{
+    "SERIAL_NUMBER": null,
+    "MODEL": null,
+    "POWER": null,
+    "POWER_EXPORT": 0,
+    "REACTIVE_POWER": null,
+    "REACTIVE_POWER_EXPORT": null,
+    "CURRENT_L1": 0,
+    "CURRENT_L2": 0,
+    "CURRENT_L3": 0,
+    "VOLTAGE_L1": 231.7,
+    "VOLTAGE_L2": 34.4,
+    "VOLTAGE_L3": 34,
+    "METER_TIME": null,
+    "CUMULATIVE_ENERGY": null,
+    "CUMULATIVE_ENERGY_EXPORT": null,
+    "CUMULATIVE_REACTIVE_ENERGY": null,
+    "CUMULATIVE_REACTIVE_ENERGY_EXPORT": null
+}
